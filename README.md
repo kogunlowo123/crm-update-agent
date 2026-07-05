@@ -47,6 +47,11 @@ CRM data hygiene agent that validates and enriches contact records, detects dupl
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 crm-update-agent/
 │
